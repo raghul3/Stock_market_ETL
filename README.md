@@ -11,7 +11,7 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 
   ![airflow workflow](https://github.com/raghul3/Stock_market_ETL/assets/81759525/55d0b8de-15ba-403a-b8b4-115a8bcab0b0)
 
-## S3 loading
+## Loading data to S3 bucket
 
 ![Screenshot 2024-06-04 153714](https://github.com/raghul3/Stock_market_ETL/assets/81759525/3f5cf786-5348-4565-af30-8d371efe6778)
 
