@@ -17,4 +17,5 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 
 ## Architecture Diagram
 
-![Stock_market Architecture](https://github.com/raghul3/Stock_market_ETL/assets/81759525/bf472085-2ed1-463c-a129-02f9b94cb7ba)
+![Architecture stock_market](https://github.com/raghul3/Stock_market_ETL/assets/81759525/b3ffa067-56c5-419c-bd06-f201b7dd7a35)
+
